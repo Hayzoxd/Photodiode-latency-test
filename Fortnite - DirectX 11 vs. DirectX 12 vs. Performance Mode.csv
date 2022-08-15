@@ -1,0 +1,10 @@
+,Fortnite: DirectX 11 vs. DirectX 12 vs. Performance Mode,,,,,
+,"Click to photon latency (milliseconds, 850 trials)",,,,,
+,Fortnite,,,,,
+,DirectX 11,DirectX 12,Performance,DirectX 11,DirectX 12,Performance
+Minimum,"8,83","8,46","7,82",,,
+Average,"15,68865882","15,80362353","14,66483529",,,
+Median,"15,585","15,74","14,69",,,
+Maximum,"22,48","22,8","22,15",,,
+Range,"13,65","14,34","14,33",,,
+SD,"2,887625863","2,682407029","2,827655996",,,

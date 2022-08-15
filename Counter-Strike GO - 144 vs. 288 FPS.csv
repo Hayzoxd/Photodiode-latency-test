@@ -1,0 +1,10 @@
+,144 vs. 288 FPS,,,
+,"Click to photon latency (milliseconds, 1255 trials)",,,
+,Counter-Strike: GO,,,
+,144 FPS,288 FPS,144 FPS,288 FPS
+Minimum,"7,01","6,46",,
+Average,"13,96786454","11,97482072",,
+Median,14,"12,04",,
+Maximum,"20,97","17,18",,
+Range,"13,96","10,72",,
+SD,"2,832063804","2,282890759",,
